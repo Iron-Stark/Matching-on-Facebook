@@ -1,2 +1,2 @@
 # Matching-on-Facebook
-A dataset of real people was built using Facebook API and then using Support Vector Machines prediction was made whether people with certain characterstics (gender,relationship_status,location,college,graduation year)are likely to be friends.
+A dataset of real people was built using Facebook API and then using Support Vector Machines prediction was made whether people with certain characterstics (gender,relationship_status,location,college,graduation year)are likely to be friends.The implementation of Support Vector Machines was taken from libsvm (www.csie.ntu.edu.tw/~cjlin/libsvm/) which is a library for Support Vector Machines.
